@@ -1,5 +1,5 @@
 License
-Copyright (C) 2024 AURALiC Holdings Inc.
+Copyright (C) 2024-2025 AURALiC Holdings Inc.
 
 The ownership and intellectual property rights of LightningCast and LightningCast Android provided under this license, including source code and object code (collectively, "Licensed Work"), are owned by AURALiC. Subject to the terms and conditions of this License, AURALiC hereby grants you a personal, limited, non-exclusive, non-transferable, non-sublicensable, and royalty-free license to reproduce, use, modify, and distribute the Licensed Work only for your use of LightningCast and LightningCast Android for non-commercial purposes. For the avoidance of doubt, AURALiC does not authorize you to use the Licensed Work for any other purpose, including but not limited to use Licensed Work to develop applications (APP), Web services, and other forms of software.
 
